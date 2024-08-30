@@ -1,1 +1,1 @@
-Java Practice for coding and excersice for only
+Java Practice for coding and excersice for only the
