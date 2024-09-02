@@ -1,1 +1,1 @@
-Java Practice Repo for solving
+Java Practice Repo for solving problems
