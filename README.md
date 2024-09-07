@@ -1,2 +1,2 @@
-Java Practice Repo the repo of this
+Java Practice Repo the repo of this design
 
