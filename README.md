@@ -1,2 +1,2 @@
-Java Practice Repo for the correceponding
+Java Practice Repo for the correceponding values
 
