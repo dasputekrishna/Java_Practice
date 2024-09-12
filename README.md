@@ -1,2 +1,2 @@
-Java Practice Repo for to check the latest chain of 
+Java Practice Repo for to check the latest chain 
 
