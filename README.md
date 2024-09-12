@@ -1,2 +1,2 @@
-Java Practice Repo for t\
+Java Practice Repo
 
