@@ -1,2 +1,2 @@
-Java Practice Repo for to check
+Java Practice Repo for to check the
 
