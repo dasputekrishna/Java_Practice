@@ -1,2 +1,2 @@
 Java Practice Repo
-the programming language is
+the programming language is used
