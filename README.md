@@ -1,2 +1,2 @@
 Java Practice Repo
-the programming language is used in  this
+the programming language is used in  this project
